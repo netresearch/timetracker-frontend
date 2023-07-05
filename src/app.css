@@ -1,0 +1,6 @@
+:root {
+    --primary: aqua;
+    --block-spacing-vertical: calc(var(--spacing) * 2);
+    --block-spacing-horizontal: var(--spacing);
+}
+
