@@ -35,7 +35,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@picocss/pico": "^1.5.10",
+		"@picocss/pico": "^2.0.0",
 		"moment": "^2.29.4",
 		"svelte-local-storage-store": "^0.5.0"
 	}
